@@ -5,9 +5,9 @@ title: Injjoy
 logo: 
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: comi0609@gmail.com
+phone: +82 10 9879 1377
+address: Imun-dong, Dondaemun-gu, Seoul, Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Joy <br> UX designer
+  hero-title: Hi! I’m Joy <br> Graphic & UI designer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -94,10 +94,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '100%'}
-- {name: Logo Design, color: '#9473e6', value: '100%'}
-- {name: After Effects, color: '#bdecf6', value: '90%'}
-- {name: Web App, color: '#ffbcaa', value: '95%'}
+- {name: Photoshop, color: '#fdb157', value: '90%'}
+- {name: Illustrator, color: '#9473e6', value: '95%'}
+- {name: Indesign, color: '#bdecf6', value: '75%'}
+- {name: Xd, color: '#ffbcaa', value: '85%'}
 
 
 #-------------------------------
@@ -115,8 +115,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
+- {name: Advertising & Visual Design, date: '2020', organization: 'Green Art Academy'}
+- {name: Spanish Major, date: '2020', organization: 'Hankuk University of Foreign Studies'}
 - {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
 - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
