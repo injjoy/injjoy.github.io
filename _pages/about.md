@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Johnathan Smith
-image: assets/images/about/명함-14.jpg
+image: assets/images/about/미모지_hat.jpg
 signature: assets/images/about/signature.png
 ---
 
